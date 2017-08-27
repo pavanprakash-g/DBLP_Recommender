@@ -13,5 +13,5 @@ hs_err_pid*
 
 #idea file
 DBLP_Recommender_System/.idea/**
-build/**
-.gradle/**
+DBLP_Recommender_System/build/**
+DBLP_Recommender_System/.gradle/**
